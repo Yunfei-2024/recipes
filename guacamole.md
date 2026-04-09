@@ -3,4 +3,5 @@
 * avocado
 * lime
 * salt
-## Instructions
+## Instruction
+* put one avocado in a bowl
