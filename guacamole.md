@@ -6,3 +6,4 @@
 ## Instruction
 * put one avocado in a bowl
 * mash the avocado
+* squeeze a lemon
